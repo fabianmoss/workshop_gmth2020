@@ -1,7 +1,8 @@
-# workshop_gmth2020
-Workshop for pitchplots library
+# Analyzing musical pieces on the Tonnetz using the *pitchplots* Python library
 
-**Analyzing musical pieces on the Tonnetz using the *pitchplots* Python library**
+Workshop for *pitchplots* library at GMTH Kongress 2020 (online)
+
+**Abstract**
 
 A central debate of 19th-century music theory concerns graphical depictions of tonal relations, commonly called the Tonnetz. More recently, Neo-Riemannian theory (NRT) has utilized it to analyze triadic progressions and, minimal voice-leading in the harmonic idioms of 19th-century composers. While NRT elucidates important aspects, it has several limitations. First, it relies on a fundamentally triadic texture, which necessitates a harmonic reduction that lies outside the scope of NRT. Second, drawing Tonnetz diagrams can be tedious and time-consuming. Third, these analyses usually show the presence or absence of triads but not the relative frequencies. Finally, they are often created only for short excerpts and rarely for entire pieces. 
 
